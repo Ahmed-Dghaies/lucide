@@ -1,0 +1,19 @@
+{
+  "$schema": "../icon.schema.json",
+  "contributors": [
+    "ahtohbi4",
+    "ericfennis",
+    "Andreto"
+  ],
+  "tags": [
+    "virus",
+    "germ",
+    "bacteria",
+    "disease",
+    "infection",
+    "sickness"
+  ],
+  "categories": [
+    "medical"
+  ]
+}
